@@ -1,0 +1,15 @@
+.social-media-icon{
+    width: 48px;
+    height: 48px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    color: #fff;
+    font-size: 1.5rem;
+    transition: all .5s;
+}
+.social-media-icon:hover{
+    background-color: #CF09A4;
+    border: 2px solid #CF09A4;
+}

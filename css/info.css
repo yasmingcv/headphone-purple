@@ -1,0 +1,23 @@
+.info{
+    height: 100px;
+    width: 200px;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+.info__number{
+    font-size: .8rem;
+    font-weight: 600;
+}
+.info__feature{
+    font-size: .8rem;
+    font-weight: 400;
+}
+.info__value{
+    font-size: .7rem;
+    font-weight: 400;
+}
